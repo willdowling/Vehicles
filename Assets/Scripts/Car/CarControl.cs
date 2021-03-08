@@ -55,6 +55,5 @@ public class CarControl : MonoBehaviour
             }
         }
         springLength /= 4;
-        camera.transform.localPosition = new Vector3(0.0f, springLength+2.97f, -4.51f);
     }
 }
