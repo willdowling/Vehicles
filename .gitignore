@@ -1,6 +1,7 @@
-*
-
-!.gitignore
-!/Assets/
-!/Game/
-!/ProjectSettings/
+.vs
+/Library
+/Logs
+/obj
+/Packages
+/Temp
+/UserSettings
