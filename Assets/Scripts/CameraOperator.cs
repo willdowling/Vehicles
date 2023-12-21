@@ -8,7 +8,7 @@ public class CameraOperator : MonoBehaviour
     public GameObject plane;
     
     void Start()
-    {
+    {   
         car.SetActive(true);
         plane.SetActive(false);
     }

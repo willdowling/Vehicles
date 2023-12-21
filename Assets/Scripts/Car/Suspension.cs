@@ -103,7 +103,6 @@ public class Suspension : MonoBehaviour
             wheelVelocityLS = transform.InverseTransformDirection(rb.GetPointVelocity(hit.point));
 
 
-
             Fx = Input.GetAxis("Vertical") * springForce;
             Fy = wheelVelocityLS.x * springForce;
 
