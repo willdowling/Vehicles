@@ -20,4 +20,6 @@ This Unity project aims to provide an immersive and realistic simulation of car 
 
 ## How to Use
 
-
+1. Clone this repository to your local machine
+2. Navigate to the Game direcotry
+3. Open the Vehicles.exe file
