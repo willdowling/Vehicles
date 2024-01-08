@@ -70,8 +70,10 @@
     <Compile Include="Assets\Scripts\Plane\AeroSurfaceConfig.cs" />
     <Compile Include="Assets\Scripts\Car\Suspension.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\BumbySphereGrid.cs" />
     <Compile Include="Assets\Scripts\Plane\AircraftController.cs" />
     <Compile Include="Assets\FighterInterceptor\Script\FighterSurfacesControl.cs" />
+    <Compile Include="Assets\SpeedbumpGrid.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Best Sports CARS - Pro 3D Models\README.txt" />
